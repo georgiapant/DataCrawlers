@@ -18,7 +18,7 @@ TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR TH
 
 DISCLAIMER
 
-This code is used to crawl/parse data from DRAXIS AQHub API.
+This code is used to crawl/parse data from excel about Cork's air quality.
 By downloading this code, you agree to contact the corresponding data provider
 and verify you are allowed to use (including, but not limited, crawl/parse/download/store/process)
 all data obtained from the data source.
